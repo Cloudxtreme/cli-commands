@@ -1,0 +1,25 @@
+{
+  "name": "cli-commands",
+  "version": "1.0.0",
+  "description": "Adds functionality to create custom commands in your node application.",
+  "main": "lib/registry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShroudComputing/cli-commands.git"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "commands",
+    "options"
+  ],
+  "author": "Leo \"PostCrafter\" Friedrichs <shroud@postcrafter.de> (http://postcrafter.de)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ShroudComputing/cli-commands/issues"
+  },
+  "homepage": "https://github.com/ShroudComputing/cli-commands#readme"
+}
